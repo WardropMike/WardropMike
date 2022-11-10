@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WardropMike
-- 👀 I’m interested in ... SDET - DevOps
+- 👀 I’m interested in ... SDET - TestOps
 - 🌱 I’m currently learning ... Kuberneties 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
